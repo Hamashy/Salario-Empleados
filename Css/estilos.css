@@ -1,0 +1,19 @@
+body{
+    font-family:Tahoma;
+    font-size: 14px;
+
+}
+
+#centrado{
+    text-align:center ;
+}
+
+img{
+    margin: auto;
+    display: block;
+    border: black 1px solid;
+}
+
+table{
+    margin: auto;
+}
